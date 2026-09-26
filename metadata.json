@@ -1,0 +1,6 @@
+{
+  "name": "ZK Web Studio",
+  "description": "Affordable, high-performance modern websites for small businesses, coaching institutes, clothing stores, restaurants, and local services in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

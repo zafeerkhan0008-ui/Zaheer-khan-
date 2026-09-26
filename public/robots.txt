@@ -1,0 +1,5 @@
+# robots.txt for ZK Web Studio
+User-agent: *
+Allow: /
+
+Sitemap: https://zkwebstudio.com/sitemap.xml

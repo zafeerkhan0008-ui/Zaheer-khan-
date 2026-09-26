@@ -1,0 +1,289 @@
+{
+  "users": [],
+  "enquiries": [],
+  "services": [
+    {
+      "id": "business",
+      "title": "Business & Corporate Websites",
+      "subtitle": "For consultants, agencies, local repairers, and service firms",
+      "category": "Service Providers",
+      "description": "Establish instant credibility with a sharp, lightning-fast website that tells clients who you are, what you solve, and how to reach you immediately.",
+      "idealFor": "Accountants, real estate consultants, technicians, local contractors, interior designers.",
+      "deliverables": [
+        "Responsive corporate layout",
+        "Services breakdown with pricing guide",
+        "Trust badges & licensing info",
+        "Contact form & Google Map location"
+      ],
+      "timeline": "3–6 days",
+      "priceGuide": "₹1,999 – ₹2,999"
+    },
+    {
+      "id": "coaching",
+      "title": "Coaching & Institute Portals",
+      "subtitle": "For private tutors, NEET/JEE institutes, schools & academies",
+      "category": "Education",
+      "description": "Showcase course curricula, faculty qualifications, batch schedules, previous year results, and capture student admission enquiries effortlessly.",
+      "idealFor": "Competitive exam coaching, language tutors, music academies, coding bootcamps.",
+      "deliverables": [
+        "Course details & syllabus download",
+        "Upcoming batch schedule table (IST)",
+        "Faculty bios & verified credentials",
+        "Demo class registration flow"
+      ],
+      "timeline": "5–8 days",
+      "priceGuide": "₹2,499 – ₹4,999"
+    },
+    {
+      "id": "restaurant",
+      "title": "Restaurant & Café Websites",
+      "subtitle": "For bistros, bakeries, cloud kitchens, and fine dining",
+      "category": "Food & Beverage",
+      "description": "A mouth-watering digital presence featuring an easy-to-read mobile menu, opening hours, chef's specials, and direct WhatsApp table reservation.",
+      "idealFor": "Cafes, family restaurants, bakeries, cloud kitchens, food trucks.",
+      "deliverables": [
+        "Mobile-optimized categorical food menu",
+        "Direct WhatsApp table booking link",
+        "Dietary badges (Veg/Non-Veg/Spicy)",
+        "Location map with directions"
+      ],
+      "timeline": "4–7 days",
+      "priceGuide": "₹1,999 – ₹3,499"
+    },
+    {
+      "id": "clothing",
+      "title": "Clothing & Boutique Catalogues",
+      "subtitle": "For fashion boutiques, ethnic wear, jewelry & apparel",
+      "category": "Retail & Fashion",
+      "description": "Display your latest lookbooks, collections, and fabric details with a clean catalogue where shoppers can click to order any outfit directly on WhatsApp.",
+      "idealFor": "Ethnic wear stores, designer boutiques, custom tailoring, streetwear labels.",
+      "deliverables": [
+        "Filterable collection lookbook",
+        "High-res garment image gallery",
+        "Size charts & fabric specifications",
+        "1-Click WhatsApp purchase button with item name"
+      ],
+      "timeline": "5–10 days",
+      "priceGuide": "₹2,999 – ₹4,999"
+    },
+    {
+      "id": "portfolio",
+      "title": "Portfolio Websites",
+      "subtitle": "For photographers, architects, creators, and freelancers",
+      "category": "Creative Showcase",
+      "description": "High-impact visual portfolios that let your craftsmanship shine without slow loading times, weird clutter, or distraction.",
+      "idealFor": "Wedding photographers, architects, visual artists, freelance writers.",
+      "deliverables": [
+        "Fast photo/project masonry grids",
+        "Case study breakdown view",
+        "Equipment/skills list",
+        "Booking & rate inquiry form"
+      ],
+      "timeline": "3–6 days",
+      "priceGuide": "₹1,999 – ₹2,999"
+    },
+    {
+      "id": "landing",
+      "title": "High-Conversion Landing Pages",
+      "subtitle": "For ad campaigns, product launches & special offers",
+      "category": "Direct Response",
+      "description": "Focused single-page destinations built specifically to turn paid ad clicks or social media traffic into qualified phone calls and leads.",
+      "idealFor": "Upcoming events, webinars, seasonal festival offers, new store openings.",
+      "deliverables": [
+        "Compelling single-screen hero CTA",
+        "Clear benefit breakdown",
+        "FAQ section & objection handling",
+        "Instant lead capture link"
+      ],
+      "timeline": "2–4 days",
+      "priceGuide": "₹999 – ₹1,999"
+    }
+  ],
+  "pricingTiers": [
+    {
+      "id": "starter",
+      "name": "Starter Web Card",
+      "priceDisplay": "₹999",
+      "subPrice": "One-time indicative fee (INR)",
+      "shortDesc": "Clean, high-speed single-page website to give your business an instant online presence and Google visibility.",
+      "turnaround": "48 – 72 Hours",
+      "recommendedFor": "Solo tutors, local repair shops, freelance photographers, visiting card replacements.",
+      "popular": false,
+      "included": [
+        "Single-page responsive layout (Mobile, Tablet, Desktop)",
+        "Direct 1-Click WhatsApp Enquiry button (+91 8960937954)",
+        "Click-to-Call direct phone button",
+        "Google Maps business location embed",
+        "About business, services list & pricing overview",
+        "Photo gallery (up to 6 photos)",
+        "Social media profile links",
+        "Fast page load optimization (< 1.5s)",
+        "Free deployment assistance on Cloudflare Pages"
+      ],
+      "excluded": [
+        "Multiple distinct sub-pages",
+        "Complex dynamic forms or user logins",
+        "Domain registration fee (purchased in your own name)",
+        "More than 2 revision rounds"
+      ]
+    },
+    {
+      "id": "standard",
+      "name": "Standard Business",
+      "priceDisplay": "₹1,999 – ₹2,999",
+      "subPrice": "Indicative scope-based fee (INR)",
+      "badge": "Most Popular",
+      "shortDesc": "Complete multi-page professional website built to convert visitors into phone calls and WhatsApp orders.",
+      "turnaround": "4 – 7 Days",
+      "recommendedFor": "Coaching centres, clothing stores, restaurants, clinics, consulting firms, home salons.",
+      "popular": true,
+      "included": [
+        "3 to 5 custom responsive pages (Home, About, Services, Gallery/Menu, Contact)",
+        "Mobile-first navigation bar & sticky contact CTA",
+        "Custom enquiry form with WhatsApp/Email forwarding",
+        "Digital menu / Product catalogue showcase (up to 20 items)",
+        "Interactive Google Maps and Business Timings section (IST)",
+        "Local SEO meta tags, OpenGraph share preview cards",
+        "Fast image compression & responsive lazy-loading",
+        "2 rounds of structured revisions",
+        "Complete source code handover & DNS setup support"
+      ],
+      "excluded": [
+        "Automated credit card payment gateway integration",
+        "Custom database login or user accounts",
+        "Continuous content writing (text/photos provided by client)",
+        "Domain name & third-party subscription fees"
+      ]
+    },
+    {
+      "id": "premium",
+      "name": "Premium Dynamic",
+      "priceDisplay": "Starting at ₹4,999",
+      "subPrice": "Tailored to detailed scope (INR)",
+      "shortDesc": "Tailored website with product filters, advanced catalogues, downloadable brochures, and rich interactions.",
+      "turnaround": "7 – 14 Days",
+      "recommendedFor": "Growing retail stores, multi-branch coaching institutes, high-end dining, boutique hotels.",
+      "popular": false,
+      "included": [
+        "6 to 10+ custom responsive pages or dynamic catalog views",
+        "Interactive product catalogue with search and category filters",
+        "Instant WhatsApp order generation with prefilled item details",
+        "Course syllabus download / PDF brochure integration",
+        "Table reservation or appointment booking modal flow",
+        "Advanced SEO setup (JSON-LD Schema, Sitemap.xml, Robots.txt)",
+        "Custom animations and premium visual styling",
+        "3 structured rounds of revisions",
+        "30-day post-launch support for text/photo adjustments"
+      ],
+      "excluded": [
+        "Complex multi-vendor marketplace engines",
+        "Ongoing monthly digital ad spend management",
+        "Third-party paid SMS / WhatsApp Business API charges"
+      ]
+    }
+  ],
+  "portfolioProjects": [
+    {
+      "id": "zenith-academy",
+      "title": "Zenith Academy",
+      "clientType": "Competitive Coaching Institute",
+      "category": "coaching",
+      "tagline": "High-conversion student admissions & course enquiry portal",
+      "description": "A comprehensive coaching institute website featuring interactive course syllabus explorer, faculty qualification credentials, upcoming batch schedules, and an instant Free Demo Class registration flow.",
+      "image": "/src/assets/images/demo_coaching_institute_1790413969016.jpg",
+      "tags": ["React", "TypeScript", "Tailwind CSS", "WhatsApp Lead Engine"],
+      "features": ["Class 9-12 & NEET/JEE Modules", "Batch Schedule Viewer", "Faculty Bios & Credentials", "Interactive Free Demo Booking"],
+      "metrics": "Designed for 3x faster course inquiries",
+      "hasInteractiveDemo": true,
+      "demoKey": "zenith",
+      "turnaroundTime": "5 Days build time"
+    },
+    {
+      "id": "vogue-atelier",
+      "title": "VogueVibe Atelier",
+      "clientType": "Boutique Fashion & Ethnic Wear",
+      "category": "retail",
+      "tagline": "Mobile-first lookbook & 1-click WhatsApp checkout catalogue",
+      "description": "Designed for boutique apparel businesses in India who want to display their seasonal collections and allow customers to inquire and purchase individual pieces via WhatsApp without expensive payment gateways.",
+      "image": "/src/assets/images/demo_fashion_clothing_1790413982001.jpg",
+      "tags": ["Product Catalog", "Filterable Collections", "Size Guide", "WhatsApp Pre-fill"],
+      "features": ["Category Filtering (Festive, Casual, Saree)", "High-res Fabric Detail Modal", "Instant Pre-filled WhatsApp Order Link", "No Payment Gateway Commission"],
+      "metrics": "Zero cart abandonment via WhatsApp ordering",
+      "hasInteractiveDemo": true,
+      "demoKey": "vogue",
+      "turnaroundTime": "6 Days build time"
+    },
+    {
+      "id": "spicecraft-bistro",
+      "title": "SpiceCraft Bistro",
+      "clientType": "Artisan Indian Dining & Café",
+      "category": "restaurant",
+      "tagline": "Appetizing mobile menu & instant table booking system",
+      "description": "A polished restaurant website showcasing a categorized visual menu with dietary indicators (Veg/Non-veg/Spicy), today's chef specials, Google Maps navigation, and table reservation flow.",
+      "image": "/src/assets/images/demo_artisan_restaurant_1790413994437.jpg",
+      "tags": ["Categorized Menu", "Table Booking", "Google Maps Directions", "Mobile First"],
+      "features": ["Tabbed Digital Menu (Starters to Desserts)", "Chef Special Highlights", "Direct Table Reservation Modal", "Working Hours & Directions"],
+      "metrics": "Instant mobile menu access via QR code",
+      "hasInteractiveDemo": true,
+      "demoKey": "spicecraft",
+      "turnaroundTime": "4 Days build time"
+    },
+    {
+      "id": "apex-physio",
+      "title": "Apex Physio & Sports Rehab",
+      "clientType": "Healthcare & Physio Clinic",
+      "category": "business",
+      "tagline": "Trust-building clinic website with appointment enquiry",
+      "description": "Clean, professional website for a local healthcare clinic with doctor qualifications, treatment services, patient consultation fees, and emergency contact details.",
+      "image": "/src/assets/images/demo_coaching_institute_1790413969016.jpg",
+      "tags": ["Healthcare", "Clinic Services", "Appointment Form", "Local SEO"],
+      "features": ["Specialized Treatment Cards", "Doctor Bio & Certifications", "Patient Care FAQs", "Google Map Location Embed"],
+      "metrics": "Optimized for local area search rankings",
+      "hasInteractiveDemo": false,
+      "turnaroundTime": "4 Days build time"
+    },
+    {
+      "id": "shuttercraft-weddings",
+      "title": "ShutterCraft Visuals",
+      "clientType": "Candid Wedding & Portrait Studio",
+      "category": "portfolio",
+      "tagline": "High-speed photo portfolio with album galleries",
+      "description": "Sleek portfolio built for wedding photographers to showcase high-resolution client albums with zero lag, clear package pricing, and an event booking calendar enquiry.",
+      "image": "/src/assets/images/demo_fashion_clothing_1790413982001.jpg",
+      "tags": ["Photography", "Masonry Gallery", "Rate Card", "Direct Inquiry"],
+      "features": ["Fast-loading Image Grids", "Wedding / Pre-Wedding Albums", "Package Deliverables Breakdown", "Date Availability Check"],
+      "metrics": "Ultra-fast image loading with lazy optimization",
+      "hasInteractiveDemo": false,
+      "turnaroundTime": "3 Days build time"
+    },
+    {
+      "id": "urbanfix-services",
+      "title": "UrbanFix Maintenance",
+      "clientType": "Home Electrical & HVAC Services",
+      "category": "business",
+      "tagline": "Local trade business landing page for quick emergency calls",
+      "description": "High-converting single-page landing site with prominent click-to-call buttons, transparent service charge rate card, and technician coverage areas.",
+      "image": "/src/assets/images/demo_artisan_restaurant_1790413994437.jpg",
+      "tags": ["Local Services", "One-Page Starter", "Click-to-Call", "Transparent Rates"],
+      "features": ["Emergency 1-Hour Call Button", "Clear Pricing per Service", "Service Areas List", "Customer Assurance Checklist"],
+      "metrics": "90% mobile conversion focus",
+      "hasInteractiveDemo": false,
+      "turnaroundTime": "2 Days build time"
+    }
+  ],
+  "settings": {
+    "businessName": "ZK Web Studio",
+    "logoText": "ZK Web Studio",
+    "heroHeadline": "We Build Websites That Help Your Business Grow",
+    "heroSubtitle": "Affordable, high-performance modern websites for small businesses, coaching centres, clothing stores, restaurants, photographers, and local service providers in India.",
+    "phone": "+91 8960937954",
+    "whatsapp": "+91 8960937954",
+    "email": "contact@zkwebstudio.com",
+    "location": "India (Serving clients nationwide & remotely)",
+    "workingHours": "Monday – Saturday: 10:00 AM – 7:00 PM IST",
+    "upiId": "zkwebstudio@upi",
+    "canonicalUrl": "https://zkwebstudio.com",
+    "currency": "INR (₹)",
+    "timezone": "India Standard Time (IST, UTC+5:30)"
+  }
+}
